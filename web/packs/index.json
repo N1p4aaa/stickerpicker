@@ -1,0 +1,9 @@
+{
+  "packs": [
+    "rnd1.json",
+    "Berninside.json",
+    "rndII.json",
+    "sp1b86a3422bd4c3e730dcc682b44afa95_by_stckrRobot.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
